@@ -1,0 +1,17 @@
+[
+  {
+    "id": "reset-password",
+    "tags": ["login", "password", "reset", "cannot access"],
+    "content": "To reset your password, use the 'Forgot Password' link on the login page. You'll receive a one-time code by email. If you don't get it, check spam or contact support with your registered email and last login date."
+  },
+  {
+    "id": "refund-policy",
+    "tags": ["refund", "payment", "billing"],
+    "content": "Refunds are available within 14 days of purchase if the product wasn't downloaded or used beyond trial limits. Processing takes 5-7 business days back to the original method."
+  },
+  {
+    "id": "premium-plan",
+    "tags": ["pricing", "plan", "upgrade", "subscription"],
+    "content": "Our Premium plan includes priority support, 1 TB storage, and SSO. Upgrades are prorated. Admins can upgrade from the Billing page under Settings."
+  }
+]

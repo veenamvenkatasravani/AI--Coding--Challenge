@@ -1,0 +1,5 @@
+sender,subject,body,date
+user1@example.com,Support: Cannot login,"Hi team, I cannot access my account immediately. My phone: +91-9876543210",2025-09-04
+user2@example.com,Query: Pricing,"Hello, I would like to know about the Premium plan pricing details. Thanks!",2025-09-05
+user3@example.com,Help: Payment failed,"My payment failed and I am frustrated. Please resolve ASAP. Contact: user3.alt@example.com",2025-09-05
+user4@example.com,Request: Refund,"I would like to request a refund for my last payment.",2025-09-06
