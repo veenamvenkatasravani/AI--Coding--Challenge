@@ -121,4 +121,4 @@ https://github.com/veenamvenkatasravani/AI--Coding--Challenge/blob/main/output2.
 ## 👨‍💻 Author
 
 Developed by **\[Veenam Venkata Sravani]** 🚀
-Feel free to connect and contribute!
+(https://github.com/veenamvenkatasravani)
