@@ -52,7 +52,8 @@ AI-Email-Assistant/
 │── .env.example           # Environment variables template
 │── sample_emails.csv      # Sample dataset for testing
 └── output/
-    └── dashboard_screenshot.png  # Example output
+    └── output1.png 
+    └── output2.png 
 ```
 
 ---
